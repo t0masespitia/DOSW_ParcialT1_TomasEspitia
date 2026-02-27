@@ -3,13 +3,11 @@
 **Nombre:** Tomas Espitia
 **Grupo:** 2
 
-<<<<<<< HEAD
----
-**Grupo:** 2
-
 ## Punto 1 - Diagrama de contexto 
 ![img.png](docs/images/img.png)
-=======
+
+---
+
 ## Punto 2 - Patrones de diseño
 **Patron # 1:**
 - **Nombre del Patrón:**  Abstract Factory
@@ -25,8 +23,9 @@
   que hay nos esta devolviendo informacion
   en distintos tipos.
 
->>>>>>> feature/Punto2
 ---
+
+
 
 
 
