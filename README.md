@@ -112,8 +112,10 @@ Garantizar que todas las respuestas nos devulvan el estado, mensaje, fecha
 
 ---
 
+## Punto 7 - Diagrama de clases
 
-
+![img_3.png](docs/images/img_3.png)
+![img_4.png](docs/images/img_4.png)
 
 
 
