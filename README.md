@@ -4,7 +4,7 @@
 **Nombre:** Tomas Espitia
 **Grupo:** 2
 
-## Punto 1 - Diagrama de contexto 
+## Punto 7 - Diagrama de clases 
 ![img.png](img.png)
 ![img_4.png](docs/images/img_4.png)
 
