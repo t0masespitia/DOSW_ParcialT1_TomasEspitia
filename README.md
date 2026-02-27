@@ -3,6 +3,9 @@
 **Nombre:** Tomas Espitia
 **Grupo:** 2
 
+---
+**Grupo:** 2
+
 ## Punto 1 - Diagrama de contexto 
 ![img.png](docs/images/img.png)
 ---
