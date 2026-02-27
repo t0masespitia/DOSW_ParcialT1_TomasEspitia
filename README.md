@@ -5,11 +5,7 @@
 
 ## Punto 1 - Diagrama de contexto 
 ![img.png](docs/images/img.png)
-
 ---
-
-
-
 
 
 
