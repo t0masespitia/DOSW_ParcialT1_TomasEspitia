@@ -1,4 +1,5 @@
 # DOSW_ParcialT1_TomasEspitia
+#Parcial 1
 
 **Nombre:** Tomas Espitia
 **Grupo:** 2
